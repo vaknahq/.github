@@ -26,6 +26,4 @@ __/_________________________________\_
 
 Vakna is a new kind of infrastructure, where the work is done by bots, decided by humans.
 
-[vakna.com](https://vakna.com) · [Docs](https://vakna.com/docs) · [X](https://x.com/vaknahq)
-
 </div>
