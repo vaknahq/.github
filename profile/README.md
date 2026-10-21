@@ -22,8 +22,6 @@ __/_________________________________\_
         ,  .  .  .   .        . .  .  
 ```
 
-### Vakna
-
 Vakna is a new kind of infrastructure, where the work is done by bots, decided by humans.
 
 </div>
